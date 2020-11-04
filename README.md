@@ -1,7 +1,7 @@
 # scraping-wikipedia
 
-Hello RakJat!
+Hello Coders!
 
-Ramada here, i created this repository to store my codes on how to scrape using Python with tools like Beautiful Soup, Pandas, and Selenium.
-I,ve made this just for those. Cheers!
+Ramada here, i created this repository to store my codes on how to scrape using Python with tools like Pandas, Beautiful Soup, and Selenium.
+Nice to see you!
 
